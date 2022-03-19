@@ -12,7 +12,10 @@
   <a href="https://t.me/shv3_dev">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <h1> Hola!
+</div>
+
+<div id="hello" align="center">
+  <h1> Nice to see you!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -49,6 +52,7 @@ I am a Java Backend Developer from Saint-Petersburg, Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 
 ### :fire: My Stats :
