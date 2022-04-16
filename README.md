@@ -25,7 +25,7 @@
 </div>
 
 ### :exclamation: About Me :
-I am a Java Backend Developer from Saint-Petersburg, Russia.
+I am a Java Backend Developer from 541n7 - P373r58URg, Ru5514. [now it's not safe to write it openly due to widespread blocking...1337.me]
 
 - :telescope: I’m working as a Software Developer for building cross-platform enterprise applications.
 
