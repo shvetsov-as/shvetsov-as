@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bonjour!;Hello!;Вiтаю!;Buenos+días!;Здравствуйте!;As+salam+alei+kum!;Guten+Tag!;Buongiorno!;Olá!;Dzień+dobry!;שָׁלוֹם;Merhaba!;God+dag!;Ni+hao!;Dobrý+den!;Hej!;Namaste!;Konnichi+ha!;Hyvää+päivää!;Szervusz!;Dia+duit!;Ya+sas!;Gamardjoba!;Kamusta!&font=JetBrains+Mono%20Code&center=true&width=380&height=50&size=32">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bonjour!;Hello!;Вiтаю!;Buenos+días!;Здравствуйте!;As+salam+alei+kum!;Guten+Tag!;Buongiorno!;Olá!;Dzień+dobry!;Shalom!;Merhaba!;God+dag!;Ni+hao!;Dobrý+den!;Hej!;Namaste!;Konnichi+ha!;Hyvää+päivää!;Szervusz!;Dia+duit!;Ya+sas!;Gamardjoba!;Kamusta!&font=JetBrains+Mono%20Code&center=true&width=380&height=50&size=32">
 </p>
 
 ---
