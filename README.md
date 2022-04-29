@@ -21,11 +21,11 @@
 </div>
 
 <div align="center">
-  <img src="https://img.freepik.com/vetores-gratis/lampada-lancando-para-fora-da-terra-em-fundo-amarelo_90099-549.jpg?size=626&ext=jpg" width="600" height="320"/>
+  <img src="https://jrnlst.ru/sites/default/files/covers/shutterstock_285999101.jpg" width="620" height="300"/>
 </div>
 
 ### :exclamation: About Me :
-I am a Java Backend Developer from 541n7 - P373r58URg, Ru5514. [now it's not safe to write it openly due to widespread blocking...1337.me]
+I am a Java Backend Developer from 541n7 - P373r58URg, Ru5514 🇷🇺. [now it's not safe to write it openly due to widespread blocking...1337.me]
 
 - :telescope: I’m working as a Software Developer for building cross-platform enterprise applications.
 
