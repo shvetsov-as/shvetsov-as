@@ -14,11 +14,21 @@
   </a>
 </div>
 
-<div id="hello" align="center">
+
+
+<!--<div id="hello" align="center">
   <h1> Nice to see you!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-</div>
+</div>-->
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bonjour!;Hello!;Вiтаю!;Buenos+días!;Здравствуйте!;As+salam+alei+kum!;Guten+Tag!;Buongiorno!;Olá!;Dzień+dobry!;שָׁלוֹם;Merhaba!;God+dag!;Ni+hao!;Dobrý+den!;Hej!;Namaste!;Konnichi+ha!;Hyvää+päivää!;Szervusz!;Dia+duit!;Ya+sas!;Gamardjoba!;Kamusta!&font=JetBrains+Mono%20Code&center=true&width=380&height=50&size=32">
+</p>
+
+---
 
 <div align="center">
   <img src="https://jrnlst.ru/sites/default/files/covers/shutterstock_285999101.jpg" width="620" height="300"/>
