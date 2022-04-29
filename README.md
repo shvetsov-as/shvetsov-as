@@ -73,8 +73,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=shvetsov-as&color=yellow&style=plastic)
+
 <div id="counter" align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=shvetsov-as&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=shvetsov-as&style=style=plastic&color=blueviolet" alt=""/>
 </div>
