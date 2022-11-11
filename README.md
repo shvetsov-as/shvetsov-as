@@ -9,7 +9,7 @@
   <a href="mailto:a002eshvetsov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://t.me/shv3_dev">
+  <a href="https://t.me/alex_jdev">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -34,6 +34,10 @@
   <img src="https://jrnlst.ru/sites/default/files/covers/shutterstock_285999101.jpg" width="620" height="300"/>
 </div>
 
+<div align="center">
+  <img src="https://jrnlst.ru/sites/default/files/covers/shutterstock_285999101.jpg" width="620" height="300"/>
+</div>
+
 ### :exclamation: About Me :
 I am a Java Backend Developer from 541n7 - P373r58URg, Ru5514 🇷🇺. [now it's not safe to write it openly due to widespread blocking...1337.me]
 
@@ -43,7 +47,7 @@ I am a Java Backend Developer from 541n7 - P373r58URg, Ru5514 🇷🇺. [now it'
 
 - :zap: In my free time, I study new technologies and read tech articles.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:a002eshvetsov@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/shv3_dev)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:a002eshvetsov@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/alex_jdev)
 
 ---
 
